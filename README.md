@@ -16,3 +16,4 @@ http://ant.apache.org/manual/dirtasks.html#patterns
 https://stackoverflow.com/questions/44522862/repository-not-found-in-git-jenkins
 https://www.edureka.co/community/10679/jenkins-failed-to-set-git
 https://www.youtube.com/watch?v=kZquQaCbo5I
+https://devops4solutions.com/ci-cd-jenkins-php/
