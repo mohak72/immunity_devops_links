@@ -17,3 +17,10 @@ https://stackoverflow.com/questions/44522862/repository-not-found-in-git-jenkins
 https://www.edureka.co/community/10679/jenkins-failed-to-set-git
 https://www.youtube.com/watch?v=kZquQaCbo5I
 https://devops4solutions.com/ci-cd-jenkins-php/
+##prometheus:-
+https://scalegrid.io/blog/how-to-monitor-mysql-deployments-with-prometheus-and-grafana-at-scalegrid/
+https://www.hreniuc.dev/2019/02/05/mysql-mariadb-prometheus-collector-and-grafana/
+https://iamabhishek-dubey.medium.com/setting-up-mysql-monitoring-with-prometheus-6029cec87db0
+https://dokumen.tips/technology/monitoring-mysql-with-prometheus-and-grafana.html
+https://www.programmersought.com/article/24774874358/
+https://medium.com/schkn/complete-mysql-dashboard-with-grafana-prometheus-36e98cba1390
